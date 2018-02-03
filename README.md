@@ -7,3 +7,4 @@ Creating Pull Requsts (PRs) is needed when using RCS in a multi-person projects.
 # Additions
 Fruit_basket.txt yummy:)
 dessert.txt yummy:)
+drinks.txt
